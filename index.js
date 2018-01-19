@@ -8,5 +8,8 @@ return array;
 
 function johnLennonFacts(facts) {
   var array = []
+  for (var x = 0; x < facts, facts[x++]) {
+    array.push(facts[x] + "!!!")
+  }
 
 }
